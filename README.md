@@ -11,13 +11,9 @@
   <img src="https://img.shields.io/badge/Platforms-Kali%20%7C%20macOS-lightgrey" alt="Platforms">
 </p>
 
-
 <p align="center">
   <i>Knowledge is power, but ethical application of that knowledge is wisdom.</i>
 </p>
-
-
-
 
 ```
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗██╗███╗   ██╗ ██████╗     ███████╗████████╗██╗  ██╗██╗ ██████╗███████╗
@@ -44,6 +40,7 @@ By Abdul Haseeb
 └─────────────────────────────┘  └─────────────────────────────┘
 ```
 
+<br><br>
 
 ## 📖 About This Repository
 
@@ -59,6 +56,7 @@ Ethical hacking involves legally breaking into computers and devices to test an 
 Unlike malicious hackers, ethical hackers act with permission from the system owners and work to improve security postures rather than exploit them for personal gain.
 </details>
 
+<br><br>
 
 ## 🗺️ Repository Structure
 
@@ -90,6 +88,8 @@ A-Comprehensive-Ethical-Hacking-Bible/
 ├── certification_guides/       # Certification preparation
 └── practical_labs/             # Real-world scenarios
 ```
+
+<br><br>
 
 ## 🚀 Getting Started
 
@@ -132,6 +132,7 @@ cd A-Comprehensive-Ethical-Hacking-Bible
 pip3 install -r requirements.txt
 ```
 
+<br><br>
 
 ## 🎓 Learning Paths
 
@@ -210,6 +211,8 @@ We've designed structured learning paths to guide your journey from beginner to 
    - Continuous skill development
 </details>
 
+<br><br>
+
 ## 🛠️ Featured Tools & Scripts
 
 ### Basic Scripts
@@ -228,7 +231,7 @@ We've designed structured learning paths to guide your journey from beginner to 
 - **Phishing Campaign Manager**: Controlled phishing simulation platform
 - **Web Vulnerability Scanner**: Advanced web application security testing
 
-
+<br><br>
 
 ## 🔍 OSINT Techniques
 
@@ -253,7 +256,7 @@ We've designed structured learning paths to guide your journey from beginner to 
 - **Automated OSINT Frameworks**: Tools for scaling intelligence gathering
 </details>
 
-
+<br><br>
 
 ## 🛡️ Defensive Security
 
@@ -282,7 +285,7 @@ Balance your offensive skills with defensive security knowledge:
 </details>
 
 <details>
-<summary><b>🔍 Threat Hunting</b></summary>
+<summary><b>🕵️ Threat Hunting</b></summary>
 <br>
 - **Proactive Threat Detection**: Finding threats before they trigger alerts
 - **Threat Intelligence Integration**: Using external data to enhance hunting
@@ -292,7 +295,7 @@ Balance your offensive skills with defensive security knowledge:
 - **Threat Hunting Tools**: Specialized software for hunting operations
 </details>
 
-
+<br><br>
 
 ## 💰 Bug Bounty Hunting
 
@@ -318,7 +321,7 @@ Balance your offensive skills with defensive security knowledge:
 - **Building Reputation**: Establishing yourself in the bug bounty community
 </details>
 
-
+<br><br>
 
 ## 📚 Certification Guides
 
@@ -357,19 +360,27 @@ Prepare for industry-recognized certifications:
 - **Career Advancement**: Using eJPT as a stepping stone
 </details>
 
+<br><br>
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details on how to submit improvements, bug fixes, or new content.
 
+<br><br>
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+<br><br>
 
 ## ⚠️ Disclaimer
 
 This repository and all associated content are provided for educational and ethical purposes only. The techniques and tools described are intended for use in authorized security testing, research, and learning environments. Always obtain proper authorization before performing security testing on any system or network you do not own.
 
 The authors and contributors are not responsible for any misuse of the information, code, or tools provided in this repository. Users are solely responsible for their actions and must comply with all applicable laws and regulations.
+
+<br><br>
 
 ## 🙏 Credits & Acknowledgements
 
@@ -379,6 +390,8 @@ Special thanks to:
 - The open-source security community for their invaluable tools and research
 - All contributors who have helped improve this repository
 - The countless security professionals who share their knowledge through write-ups, presentations, and tutorials
+
+<br><br>
 
 ---
 
