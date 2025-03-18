@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/DALL·E 2025-03-18 07.59.42 - A retro pixelated Bible in an 8-bit style, with the text 'Hacker's Bible' on the cover in a pixelated font. This version has a red and black cyberpunk.png" alt="Hacker's Bible" width="300">
+  <img src="assets/images/ethical-hacking-guide-banner.jpg" alt="Ethical Hacking Banner" width="800">
 </p>
 
 <h1 align="center">A Comprehensive Ethical Hacking Bible</h1>
@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/Platforms-Kali%20%7C%20macOS-lightgrey" alt="Platforms">
 </p>
 
-<p align="center">
-  <img src="assets/images/ethical-hacking-guide-banner.jpg" alt="Ethical Hacking Banner" width="800">
-</p>
 
 <p align="center">
   <i>Knowledge is power, but ethical application of that knowledge is wisdom.</i>
