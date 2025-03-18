@@ -59,9 +59,6 @@ Ethical hacking involves legally breaking into computers and devices to test an 
 Unlike malicious hackers, ethical hackers act with permission from the system owners and work to improve security postures rather than exploit them for personal gain.
 </details>
 
-<p align="center">
-  <img src="assets/images/sections/scripts_tools.png" alt="Scripts & Tools" width="400">
-</p>
 
 ## 🗺️ Repository Structure
 
@@ -135,9 +132,6 @@ cd A-Comprehensive-Ethical-Hacking-Bible
 pip3 install -r requirements.txt
 ```
 
-<p align="center">
-  <img src="assets/images/sections/learning_paths.png" alt="Learning Paths" width="400">
-</p>
 
 ## 🎓 Learning Paths
 
@@ -234,9 +228,7 @@ We've designed structured learning paths to guide your journey from beginner to 
 - **Phishing Campaign Manager**: Controlled phishing simulation platform
 - **Web Vulnerability Scanner**: Advanced web application security testing
 
-<p align="center">
-  <img src="assets/images/sections/osint.png" alt="OSINT Techniques" width="400">
-</p>
+
 
 ## 🔍 OSINT Techniques
 
@@ -261,9 +253,7 @@ We've designed structured learning paths to guide your journey from beginner to 
 - **Automated OSINT Frameworks**: Tools for scaling intelligence gathering
 </details>
 
-<p align="center">
-  <img src="assets/images/sections/defensive.png" alt="Defensive Security" width="400">
-</p>
+
 
 ## 🛡️ Defensive Security
 
@@ -302,9 +292,7 @@ Balance your offensive skills with defensive security knowledge:
 - **Threat Hunting Tools**: Specialized software for hunting operations
 </details>
 
-<p align="center">
-  <img src="assets/images/sections/bug_bounty.png" alt="Bug Bounty Hunting" width="400">
-</p>
+
 
 ## 💰 Bug Bounty Hunting
 
@@ -330,9 +318,7 @@ Balance your offensive skills with defensive security knowledge:
 - **Building Reputation**: Establishing yourself in the bug bounty community
 </details>
 
-<p align="center">
-  <img src="assets/images/sections/certifications.png" alt="Certification Guides" width="400">
-</p>
+
 
 ## 📚 Certification Guides
 
