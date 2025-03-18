@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/ethical-hacking-guide-banner.jpg" alt="Ethical Hacking Banner" width="800">
+  <img src="assets/images/Remove background project.png" alt="Ethical Hacking Banner" width="800">
 </p>
 
 <h1 align="center">A Comprehensive Ethical Hacking Bible</h1>
